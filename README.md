@@ -1,35 +1,9 @@
-<?php
+## &#x1f4c8; GitHub Stats
 
-namespace AshBaker;
+<a href="https://github.com/SergioO21/SergiO21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Product Owner'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
+<a href="https://github.com/SergioO21/SergiO21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+</a>

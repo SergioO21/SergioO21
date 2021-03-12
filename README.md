@@ -1,3 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioO21&layout=compact)](https://github.com/SergioO21/github-readme-stats)
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioO21&langs_count=8)](https://github.com/SergioO21/github-readme-stats)
+<a href="https://github.com/SergioO21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioO21&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Sergio Orejarena GitHub Stats" />
+</a>
+
+<a href="https://github.com/SergioO21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioO21&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Sergio Orejarena GitHub Stats" />
+</a>

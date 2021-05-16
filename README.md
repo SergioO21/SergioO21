@@ -1,7 +1,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SergioO21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioO21&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Sergio Orejarena GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergtioO21&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Sergio's Top Langs">
 </a>
 
 <a href="https://github.com/SergioO21">

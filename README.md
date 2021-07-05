@@ -3,5 +3,5 @@
  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sorec21&layout=compact&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sorec21" />
 </a>

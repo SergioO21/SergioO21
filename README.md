@@ -19,8 +19,9 @@
 - In process...
 
 
-### Languages:
-<div>
+### Languages and Tools:
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 width=50 align="center"/>
@@ -28,11 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height=40 width=50 align="center"/>
-</div>
-<br>
-
-### Tools:
-<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height=40 width=50 align="center"/>

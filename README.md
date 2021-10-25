@@ -14,10 +14,15 @@
   </a>
 </div>
 
+<br>
 
 ### About me:
-- In process...
 
+  I am passionate about technology, a lover of challenges and a faithful believer in teamwork.
+
+🎯 Goals: Be a Machine Learning Engineer.
+
+<br><br>
 
 ### Languages and Tools:
 

@@ -3,14 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/SergioOR21" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" height=25 width=50 align="center"/>
-  </a>
   <a href="https://www.linkedin.com/in/sergio-or/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height=25 width=50 align="center"/>
-  </a>
-  <a href="https://www.instagram.com/sergio_orejarena/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" height=25 width=50 align="center"/>
   </a>
 </div>
 
@@ -24,8 +18,14 @@
 
 ### Languages and Tools:
 
+[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-E040FB?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1FA2)](https://certificates.dev/angular/certificates/9e9c34b1-4490-4ea4-b6cb-1005fc7c4b63)
+
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height=40 width=50 align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height=40 width=50 align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height=40 width=50 align="center"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height=40 width=50 align="center"/>

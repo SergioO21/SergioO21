@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height=40 width=50 align="center"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height=40 width=50 align="center"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height=40 width=50 align="center"/>
 </div>
 <br>
 
